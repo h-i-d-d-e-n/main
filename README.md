@@ -8,5 +8,3 @@ _/
 # main
 
 TASK 1
-
-test
