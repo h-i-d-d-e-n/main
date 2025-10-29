@@ -5,8 +5,3 @@ Final Points = 0.4 * (Average of HW ⏐ Median of HW) + 0.6 * Exam
 This file will contain my task 1, students grades and the median for them.
 _/
 
-# main
-
-TASK 1
-
-this is my new code
